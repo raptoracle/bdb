@@ -1,6 +1,6 @@
 # CMakeLists.txt - cmake build for leveldown
 # Copyright (c) 2020, Christopher Jeffrey (MIT License).
-# https://github.com/bcoin-org/bdb
+# https://github.com/raptoracle/bdb
 
 cmake_minimum_required(VERSION 3.4)
 project(leveldown LANGUAGES CXX)

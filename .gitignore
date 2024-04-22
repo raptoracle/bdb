@@ -17,3 +17,4 @@ node_modules/
 npm-debug.log
 prebuilds/
 yarn.lock
+.DS*

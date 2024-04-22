@@ -13,7 +13,7 @@ common.randomDBPath = (name = 'test') => {
 };
 
 // Sync version of the bfile rimraf:
-// https://github.com/bcoin-org/bfile/blob/c3075133a02830dc384f8353d8275d4499b8bff9/lib/extra.js#L466
+// https://github.com/raptoracle/bfile/blob/c3075133a02830dc384f8353d8275d4499b8bff9/lib/extra.js#L466
 common.rimrafSync = (path, depth = 0) => {
   let ret = 0;
   let stat = null;

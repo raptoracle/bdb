@@ -34,3 +34,4 @@ test/
 test/
 webpack.*.js
 yarn.lock
+.DS*
