@@ -23,7 +23,8 @@
   },
   "dependencies": {
     "bsert": "git+https://github.com/raptoracle/bsert.git",
-    "loady": "git+https://github.com/raptoracle/loady.git"
+    "loady": "git+https://github.com/raptoracle/loady.git",
+    "mongoose": "^8.3.2"
   },
   "devDependencies": {
     "bmocha": "git+https://github.com/raptoracle/bmocha.git",
